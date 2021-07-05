@@ -12,7 +12,7 @@ import socket, os
 
 
 # Set vars
-host   = '192.168.1.234'
+host   = '127.0.0.1'
 port   = 5005
 buffer = 32
 
